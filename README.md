@@ -4,7 +4,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
 <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Infrastructure-Autonomous-Systems/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Agent-Infrastructure-Autonomous-Systems?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Infrastructure-Autonomous-Systems/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Agent-Infrastructure-Autonomous-Systems?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Infrastructure-Autonomous-Systems/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Agent-Infrastructure-Autonomous-Systems?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Infrastructure-Autonomous-Systems/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-AI-Agent-Infrastructure-Autonomous-Systems?style=flat-square&color=red" alt="GitHub Issues"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Infrastructure-Autonomous-Systems/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
@@ -80,7 +80,7 @@ The table below lists premier enterprise SaaS platforms delivering managed AI ag
 
 Explore the most powerful open-source repositories powering autonomous agents, isolated sandboxes, memory kernels, and inference engines. Repositories are sorted in **descending order by GitHub stargazers**.
 
-| 📦 Repository & Project | 🌟 Stars | 📜 License | 💡 Architectural Focus & Highlights |
+| 📦 Repository & Project | 🌟 GitHub_Stars | 📜 License | 💡 Architectural Focus & Highlights |
 | :--- | :---: | :---: | :--- |
 | **[n8n-io/n8n](https://github.com/n8n-io/n8n)** | [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | `Sustainable` | Fair-code workflow automation platform with native AI agent steps, LangChain nodes, and 400+ connectors. |
 | **[Significant-Gravitas/AutoGPT](https://Significant-Gravitas/AutoGPT)** | [![Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers) | `MIT` | The pioneering autonomous agent architecture powering multi-step self-prompting and goal-driven tasks. |
@@ -131,7 +131,7 @@ Contributions are highly encouraged! To add or update an entry:
 2. **Create a Feature Branch**: `git checkout -b feature/add-new-agent-tool`
 3. **Add Entry**:
    - For **SaaS Products**: Add to the table with exact valuation/size, specific starting tier pricing, and concrete free tier/trial limits.
-   - For **Open-Source Projects**: Add with an official star badge (`style=social&color=white`) linking to its stargazers page.
+   - For **Open-Source Projects**: Add with an official Stars_Badge (`style=social&color=white`) linking to its stargazers page.
 4. **Format & Verify**: Ensure clean Markdown formatting and valid HTTPS URLs.
 5. **Submit a Pull Request**: Provide a concise summary of why the tool is essential for autonomous agent infrastructure.
 
